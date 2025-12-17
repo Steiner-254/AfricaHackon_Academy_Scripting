@@ -1,0 +1,5 @@
+import textwrap
+
+text = "Python is an amazing programming language that is widely used for web development, data science, automation, and more."
+wrapped_text = textwrap.fill(text, width=50)
+print(wrapped_text)

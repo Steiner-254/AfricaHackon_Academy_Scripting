@@ -13,7 +13,7 @@ message="AfricaHackon Wishes You Merry Christmas & Happy New Year"
 
 # How many times to print the message.
 # Using an integer ensures the loop below is explicit and easy to adjust.
-count=20
+count=3
 
 # ---------- Main logic ----------
 # Loop from 1 to $count and print the message each iteration.

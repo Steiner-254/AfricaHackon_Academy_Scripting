@@ -10,7 +10,7 @@ set -uo pipefail
 
 # ---------- Configuration ----------
 # Time (in seconds) to wait between pings
-SLEEP_TIME=10
+SLEEP_TIME=2
 
 # ---------- User input ----------
 # Prompt the user to enter a domain or IP address
