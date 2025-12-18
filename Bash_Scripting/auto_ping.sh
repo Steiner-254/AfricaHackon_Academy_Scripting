@@ -49,3 +49,4 @@ while true; do
   # Wait for the specified number of seconds before pinging again
   sleep "$SLEEP_TIME"
 done
+
